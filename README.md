@@ -1,6 +1,11 @@
-# final-year-project Repo
+# final-year-project Repository
+
 . panademic Openboard
+
 • Added Functionalities using Canvas & JavaScript library.
+
+This project will solve problems faced while keeping social distance in pandaemic situation.
+The idea here is to teach students through whiteboard but in virtual platform.
  
   
   reference link for canvas:
