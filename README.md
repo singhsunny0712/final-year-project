@@ -1,25 +1,25 @@
-# final-year-project Repository
+# Final Year Project
 
-. panademic Openboard
-
-• Added Functionalities using Canvas & JavaScript library.
-
+## Discription :small_red_triangle_down: :-
+panademic Openboard
+Added Functionalities using Canvas & JavaScript library.
 This project will solve problems faced while keeping social distance in pandaemic situation.
 The idea here is to teach students through whiteboard but in virtual platform.
  
+ 
+ 
+ ## Technologies :rocket::-
+Project is created with:
+* Node.js :heavy_check_mark:
+* JavaScript :heavy_check_mark:
+* Jquery :heavy_check_mark:
+* DOM :heavy_check_mark:
+* Canvas Tag of HTML :heavy_check_mark:
+* HTML/CSS :heavy_check_mark:
   
-  reference link for canvas:
- 
- 
-   https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API
+## Deploy Uing Heroku :-
+[Click Link](https://sharingwhiteboard.herokuapp.com/)
 
 
-• Added feature of pin a doc or an image using DOM.
 
-•Using JQuery for adding or removing feature of sticky pad in project.
 
- -reference link for Jquery :
- 
-  https://developer.mozilla.org/en-US/docs/Glossary/jQuery
-
-• Deploy on Heroku using GitHub.
