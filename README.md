@@ -16,6 +16,10 @@ Project is created with:
 * DOM :heavy_check_mark:
 * Canvas Tag of HTML :heavy_check_mark:
 * HTML/CSS :heavy_check_mark:
+
+## UI Image of the project :-
+![UI Image](./UI.png)
+
   
 ## Deploy Uing Heroku :-
 [Click Link](https://sharingwhiteboard.herokuapp.com/)
